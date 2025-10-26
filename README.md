@@ -8,22 +8,6 @@
 - **RESTful API**: Easy integration with any frontend or service
 - **Postman Collection**: Pre-configured API testing collection included
 
-## Setup Instructions
-
-### File Structure
-agent-builder/
-  -tools/
-    -email_sender.py
-    -file_logger.py
-    -pdf_summarizer.py
-    -twitter_tool.py
-    -web_scraper.py
-  -uploads/
-    -document.pdf
-  -.env
-  -app.py
-  -requirements.txt
-
 ### Installation
 
 1. **Clone or download the project**
