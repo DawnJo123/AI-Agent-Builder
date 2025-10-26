@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "c9242044-ef9e-41f1-9e5b-41742166451a",
+		"name": "Agent Builder APIs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48350604"
+	},
+	"item": [
+		{
+			"name": "WebScrapper Agent",
+			"item": []
+		},
+		{
+			"name": "PDF Summarizer",
+			"item": []
+		},
+		{
+			"name": "Email Sender",
+			"item": []
+		},
+		{
+			"name": "Twitter Post Generator",
+			"item": []
+		},
+		{
+			"name": "Get All Agents",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "baseURL",
+			"value": "",
+			"type": "default"
+		}
+	]
+}
